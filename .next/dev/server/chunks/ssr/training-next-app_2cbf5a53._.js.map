@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///home/user/node_project/training-next-app/app/layout.tsx"],"sourcesContent":["import type { ReactNode } from 'react';\nimport './globals.css';\n\nexport default function RootLayout({\n    children\n} : {\n    children: ReactNode\n}) {\n    return (\n        <html lang=\"ko\">\n            <body className=\"bg-gray-100 text-gray-900\">\n                {children}\n            </body>\n        </html>\n    )\n}"],"names":[],"mappings":";;;;;;;AAGe,SAAS,WAAW,EAC/B,QAAQ,EAGX;IACG,qBACI,yQAAC;QAAK,MAAK;kBACP,cAAA,yQAAC;YAAK,WAAU;sBACX;;;;;;;;;;;AAIjB"}},
-    {"offset": {"line": 32, "column": 0}, "map": {"version":3,"sources":["file:///home/user/node_project/training-next-app/node_modules/next/src/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.ts"],"sourcesContent":["module.exports = (\n  require('../../module.compiled') as typeof import('../../module.compiled')\n).vendored['react-rsc']!.ReactJsxDevRuntime\n"],"names":["module","exports","require","vendored","ReactJsxDevRuntime"],"mappings":"AAAAA,OAAOC,OAAO,GACZC,QAAQ,8IACRC,QAAQ,CAAC,YAAY,CAAEC,kBAAkB","ignoreList":[0]}}]
-}
