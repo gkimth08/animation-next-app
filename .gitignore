@@ -3,7 +3,6 @@ node_modules/
 
 # build 결과물
 .next/
-out/
 
 # 기타
 *.sh
