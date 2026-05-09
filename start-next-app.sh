@@ -11,7 +11,11 @@ export PATH="$NODE_PATH:$PATH"
 # node 버전 확인
 node --version
 
-npx tsc --noEmit
+# .js 파일을 생성(emit)하지 않고, 타입 검사만 수행
+# npx tsc --noEmit
 
 # next.js 실행
-npm run dev
+# npm run dev
+
+# app build
+npm run build
