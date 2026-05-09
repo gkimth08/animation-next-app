@@ -17,5 +17,9 @@ node --version
 # next.js 실행
 # npm run dev
 
-# app build
+# build
 npm run build
+
+# install & deploy
+# npm install gh-pages --save-dev
+# npm run deploy
