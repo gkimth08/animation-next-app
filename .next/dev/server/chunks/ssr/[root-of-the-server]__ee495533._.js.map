@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 14, "column": 0}, "map": {"version":3,"sources":["file:///home/user/node_project/training-next-app/app/page.tsx"],"sourcesContent":["export default function Page() {\n    return (\n        <main className=\"flex flex-col items-center justify-center min-h-screen\">\n            <h1 className=\"text-4xl font-bold text-blue-600\">\n                스틱맨 활쏘기 게임!\n            </h1>\n            <button className=\"mt-6 px-4 py-2 bg-green-500 text-white rounded hover:bg-green-600\">\n                게임시작\n            </button>\n        </main>\n        \n    );\n}"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACpB,qBACI,yQAAC;QAAK,WAAU;;0BACZ,yQAAC;gBAAG,WAAU;0BAAmC;;;;;;0BAGjD,yQAAC;gBAAO,WAAU;0BAAoE;;;;;;;;;;;;AAMlG"}}]
+}

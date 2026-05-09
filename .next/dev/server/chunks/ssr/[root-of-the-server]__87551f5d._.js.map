@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 14, "column": 0}, "map": {"version":3,"sources":["file:///home/user/node_project/training-next-app/app/game/page.tsx"],"sourcesContent":["export default function Page() {\n    return (\n        <main className=\"flex flex-col items-center min-h-screen bg-gray-100 p-6\">\n            <div className=\"flex justify-between w-full max-w-md mb-4\">\n                <span className=\"font-bold\">점수 : 0</span>\n                <span className=\"font-bold\">HP : 10</span>\n            </div>\n            <div className=\"w-full max-w-md h-64 bg-blue-50 border rounded flex items-center justify-center\">\n\n            </div>\n            <div className=\"mt-6 flex space-x-4\">\n                <button className=\"px-4 py-2 bg-green-500 text-white rounded\">화살 발사</button>\n                <button className=\"px-4 py-2 bg-red-500 text-white rounded\">게임 종료</button>\n            </div>\n        </main>\n    );\n}"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACpB,qBACI,yQAAC;QAAK,WAAU;;0BACZ,yQAAC;gBAAI,WAAU;;kCACX,yQAAC;wBAAK,WAAU;kCAAY;;;;;;kCAC5B,yQAAC;wBAAK,WAAU;kCAAY;;;;;;;;;;;;0BAEhC,yQAAC;gBAAI,WAAU;;;;;;0BAGf,yQAAC;gBAAI,WAAU;;kCACX,yQAAC;wBAAO,WAAU;kCAA4C;;;;;;kCAC9D,yQAAC;wBAAO,WAAU;kCAA0C;;;;;;;;;;;;;;;;;;AAI5E"}}]
+}
