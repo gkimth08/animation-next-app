@@ -1,1 +1,0 @@
-# animation-next-app
