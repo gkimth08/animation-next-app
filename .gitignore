@@ -1,0 +1,10 @@
+# gh-pages
+# node.js
+node_modules/
+
+# build
+.next/
+
+# etc
+.github/
+*.sh
