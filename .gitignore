@@ -1,0 +1,9 @@
+# node.js 관련
+node_modules/
+
+# build 결과물
+.next/
+
+# 기타
+.github/
+*.sh
