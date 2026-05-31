@@ -230,7 +230,7 @@ export default function Page() {
 
 	return (
 		<main className="flex flex-col items-center min-h-screen bg-gray-100 p-6">
-			<div className="absolute top-7 left-2 md:top-7 md:left-13 lg:top-7 lg:left-77 font-bold bg-white bg-opacity-70 px-2 py-1 rounded">
+			<div className="absolute top-7 left-2 md:top-7 md:left-13 lg:top-7 lg:left-83 font-bold bg-white bg-opacity-70 px-2 py-1 rounded">
 				<span className="text-sm sm:text-base md:text-base lg:text-lg font-bold">점수 : {score}</span>
 			</div>
 			<canvas
